@@ -19,7 +19,7 @@ npm install
 
 2. run it on the local server
 
-````
-npm run dev
 ```
-````
+npm run dev
+
+```
